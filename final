@@ -11,7 +11,10 @@
   <img src="mybanner.jpg">
   <title>Final Project</title>
   <h2><a href="https://www.khanacademy.org/computer-programming/ferraro_final/6105818113998848">Ferraro_final</a></h2><script src="https://www.khanacademy.org/computer-programming/ferraro_final/6105818113998848/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>
-  <p>For my final project, I designed a "Virtual Garden" that allows users to plant flowers.</p>
+  <p>For my final project, I designed a "Virtual Garden" that allows users to plant flowers in a garden box.<br>
+  Users choose a color using the buttons at the top of the screen, and then click the mouse anywhere inside the flower box<br>
+  to plant a flower. Users can design their garden using any combination of flower colors.</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qUnueHc0M7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <a href="index.html">Back to home page</a>
 </body>
 </html>
